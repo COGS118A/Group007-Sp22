@@ -1,0 +1,10 @@
+lvis
+motmetrics
+numpy
+pycocotools
+torch>=1.1.0
+torchvision
+pytest
+seaborn
+mmcv-full==1.3.0
+mmdet==2.24.1
